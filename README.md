@@ -10,9 +10,9 @@ En este repositorio se encuentra una pequeña aplicion la cual se creara su READ
 
 ## Despliegue
 
-## Windows
+### Windows
 
-## Línea de comandos
+### Línea de comandos
 
 ## Construido con
 

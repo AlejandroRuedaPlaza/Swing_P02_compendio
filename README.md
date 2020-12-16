@@ -31,7 +31,7 @@ java -jar swing_c_p02_RuedaPlazaAlejandro.jar
 * [Visual Studio Code](https://code.visualstudio.com/) - Usado para generar README.md
 * 
 ## Versionado
-El proyecto se ja construdio con eclipse 2020-09 y con jdk 11 
+El proyecto se ha construdio con eclipse 2020-09 y con jdk 11 
 ## Autores
 Alejandro Rueda Plaza
 
